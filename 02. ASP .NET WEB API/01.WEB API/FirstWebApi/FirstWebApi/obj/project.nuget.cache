@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EobVvlP7aBX09uvPIhh+DsAVwu5vnV1SriznqCFs5EqIgXs/YJZMPqgRcdkvtmo0+JWLykpunD4fwQtgGQOuaw==",
+  "success": true,
+  "projectFilePath": "T:\\02.GIT REPO\\03.NET-TECHNOLOGY\\02. ASP .NET WEB API\\01.WEB API\\FirstWebApi\\FirstWebApi\\FirstWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ThillaiShanmugam1714\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
