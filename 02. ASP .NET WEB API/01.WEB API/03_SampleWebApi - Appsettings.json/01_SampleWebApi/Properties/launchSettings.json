@@ -1,0 +1,20 @@
+﻿/* If I Change the environment variable to "Development", 
+   the application will use the appsettings.Development.json file instead of appsettings.Development.json file. 
+   This is useful for testing different configurations without changing the code.
+*/
+
+
+{
+  "$schema": "https://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": false,
+      "applicationUrl": "http://localhost:5155",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Staging"
+      }
+    }
+  }
+}
