@@ -1,8 +1,3 @@
-﻿/* If I Change the environment variable to "Development", 
-   the application will use the appsettings.Development.json file instead of appsettings.json file. 
-   This is useful for testing different configurations without changing the code.
-*/
-
 {
   "$schema": "https://json.schemastore.org/launchsettings.json",
   "iisSettings": {
