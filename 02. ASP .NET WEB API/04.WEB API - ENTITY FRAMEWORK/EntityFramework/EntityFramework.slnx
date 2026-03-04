@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/01-EXPLANATION/">
+    <File Path="01-EXPLANATION/1_Basic_Entity_Framework.cs" />
+    <File Path="01-EXPLANATION/2_entity_States.cs" />
+    <File Path="01-EXPLANATION/3_Relationships in Entity Framework Core.cs" />
+  </Folder>
+  <Folder Name="/02-EF CORE/">
+    <Project Path="02-EF CORE/Product Management API/Product Management API.csproj" />
+  </Folder>
+  <Folder Name="/03-EF CORE/">
+    <Project Path="03-EF CORE/ECommerceApp/ECommerceApp.csproj" />
+  </Folder>
+</Solution>
